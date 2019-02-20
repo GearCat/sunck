@@ -3,11 +3,15 @@ sunck is a very nice man!
 xym is a good man!
 I am wrong
 sunck cai is a good man
-<<<<<<< HEAD
 
-lyx is a bad man
-=======
 sunck cai is a nice man
 kaige cai is a nice man
 sunck cai is a handsome man
->>>>>>> 4ecb0d84ff508aa57d26237082ede7cc7b031163
+-------------------------------------------
+jfoainwegoiagasdpifjmafjapoifjas
+f23fafadsf
+fwefadsfafa
+fwefafa
+afewa
+
+
